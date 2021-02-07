@@ -1,4 +1,4 @@
-module github.com/fiducia-dlt/kit
+module github.com/go-kit/kit
 
 go 1.13
 
